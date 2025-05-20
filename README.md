@@ -1,4 +1,33 @@
-# 👋 Hello, I'm Yonten, I'm a Systems and Network Professional
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yonten-gyatso-84070051" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+   </a>
+   <a href="https://www.linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+   </a>
+   <a href="https://github.com/Yntng" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/github/followers/yourusername?label=GitHub&style=for-the-badge&logo=github" height="25" />
+   </a>
+</div>
+
+###
+
+<h1 align="center"> 👋 Hello and Tashi Delek! I'm Yonten</h1>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+# I'm a Systems and Network Professional
 
 With over a decade of hands-on experience in IT infrastructure, networking, and system administration, I specialize in building stable, secure, and scalable digital environments for both rural and enterprise networks. My background includes extensive work with ISPs, community development, and government-level IT support.
 
@@ -59,11 +88,6 @@ With over a decade of hands-on experience in IT infrastructure, networking, and 
 - Contribute to IT best practices in education, community, and governance sectors
 
 ---
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yonten-gyatso-84070051/)
-[![GitHub](https://img.shields.io/github/followers/yourusername?label=GitHub&style=for-the-badge&logo=github)](https://github.com/Yntng/)
 
 ---
 
