@@ -89,7 +89,6 @@ With over a decade of hands-on experience in IT infrastructure, networking, and 
 
 ---
 
----
 
 > _“A stable, secure system and network is invisible — until it’s not. I make sure it stays invisible.”_
 
